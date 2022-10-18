@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">MisRecyclersViews</string>
 
     <!-- Add in flower names  -->
@@ -20,10 +22,10 @@
 
     <string name="add_flower">Add Flower</string>
 
-    <string name="flower1_name">Rose</string>
-    <string name="flower2_name">Freesia</string>
-    <string name="flower3_name">Lily</string>
-    <string name="flower4_name">Sunflower</string>
+    <string name="flower1_name">Rosa</string>
+    <string name="flower2_name">Fresia</string>
+    <string name="flower3_name">Lili</string>
+    <string name="flower4_name">Girasol</string>
     <string name="flower5_name">Peony</string>
     <string name="flower6_name">Daisy</string>
     <string name="flower7_name">Lilac</string>
@@ -33,10 +35,8 @@
     <string name="flower11_name">Dahlia</string>
     <string name="flower12_name">Tulip</string>
 
-    <string name="flower1_description">Rose comes from the Latin word Rosa. There are over 100
-        species of the rose. </string>
-    <string name="flower2_description">Freesias bloom during spring and are native to
-        Africa.</string>
+    <string name="flower1_description">La palabra Rosa proviene del latin Rosa. Hay más de 100 especies. </string>
+    <string name="flower2_description">Fresia florece durante el verano y es nativa de africa.</string>
     <string name="flower3_description">Lilies have the longest in vase lifespan of any cut
         bloom.</string>
     <string name="flower4_description">Mature Sunflowers face east and are native too the United
@@ -61,5 +61,6 @@
     <string name="remove_this_flower">Remove this flower</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
 
 </resources>
